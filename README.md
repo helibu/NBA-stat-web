@@ -66,3 +66,17 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+## Features of this project
+
+### Search player and show profile
+![](https://github.com/helibu/NBA-stat-web/blob/master/gifs/search.gif)
+
+### Detailed data hexin shortcount with changable minCount
+![](https://github.com/helibu/NBA-stat-web/blob/master/gifs/slider.gif)
+ 
+### Scatter data 
+![](https://github.com/helibu/NBA-stat-web/blob/master/gifs/scatter.gif)
+
+### Turn off detailed tooltips
+![](https://github.com/helibu/NBA-stat-web/blob/master/gifs/tooltip.gif)
